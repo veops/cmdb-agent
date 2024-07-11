@@ -40,7 +40,7 @@ release里提供了不同环境下所需的OneAgent版本，如下：
 | Darwin  | amd64 | 
 | Darwin  | arm64 | 
 
-discover-linux-amd64.tar.gz 为实现linux上资源自动发现所需的插件。具体安装可参考申请OneMaster之后发送给您的安装文档。
+discover-linux-amd64.tar.gz 在linux上实现资源自动发现所需的插件。具体安装可参考申请OneMaster之后发送给您的安装文档。
 
 _**欢迎关注公众号(维易科技OneOps)，关注后可加入微信群，进行产品和技术交流。**_
 
